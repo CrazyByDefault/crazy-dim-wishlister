@@ -1,5 +1,5 @@
-title:test
-description:wishlist test
+title:Crazy's Asylum Wishlist
+description:This wishlist was made by the crazy dedicated folks over at CrazyByDefault's Discord Server. This list is updated often, so please refresh it from DIM.
 
 // Forbearance - PvE AbilitySpam God (god-pve,pve)
 //notes: Demo+OriginTrait+ChainReax/Wellspring = Ability Stonks tags:god-pve,pve
